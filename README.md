@@ -43,13 +43,6 @@
       height="30"
       width="40" />
   </a>
-  <a href="mailto:groveryatha@gmail.com">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-      alt="email-yatha"
-      height="30"
-      width="40" />
-  </a>
 </p>
 
 

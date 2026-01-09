@@ -2,8 +2,6 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20tech%20domain%20through%20code,%20logic,%20and%20consistency.&width=700&height=50">
 </p>
-<h3 align="left">A passionate Software engineer developer </h3>
-- 📫 How to reach me **groveryatha@gmail.com**
 <h2 align="left">🚀 Tools and technologies I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -42,6 +40,13 @@
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="yatha-github"
+      height="30"
+      width="40" />
+  </a>
+  <a href="mailto:groveryatha@gmail.com">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      alt="email-yatha"
       height="30"
       width="40" />
   </a>

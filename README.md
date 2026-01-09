@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Yatha</h1>
-<p>🚀 Exploring the tech domain through code, logic, and consistency. </p>
-
-<h2>🚀 Tools and technologies I Use</h2>
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring%20the%20tech%20domain%20through%20code,%20logic,%20and%20consistency.&width=700&height=50">
+</p>
+<h3 align="left">A passionate Software engineer developer </h3>
+- 📫 How to reach me **groveryatha@gmail.com**
+<h2 align="left">🚀 Tools and technologies I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -17,7 +20,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a></p>
-<h3 align="left">🤝 Connect with me</h3>
+<h2 align="left">🤝 Connect with me</h2>
 <p><i>Let’s connect, collaborate, and build something impactful.</i></p>
 
 <p align="left">
